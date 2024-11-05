@@ -6,4 +6,4 @@ You'll notice there is no code, nor do the CircleCI config files live here - nif
 
 The CircleCI config files live here: `https://github.com/jenny-miggin/config-repo`
 
-The code that is checked out during the `checkout` command lives here: `https://github.com/jenny-miggin/checkout-repo`
+The code that is checked out during the `checkout` command lives here: `https://github.com/jenny-miggin/checkout-repo`. You don't need to follow the `checkout` repo now
