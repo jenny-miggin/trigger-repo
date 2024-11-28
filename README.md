@@ -1,6 +1,6 @@
 # Trigger Repo
 
-This is the repo that triggers builds on CircleCI.
+This is the repo that triggers builds on CircleCI again
 
 You'll notice there is no code, nor do the CircleCI config files live here - nifty!
 
